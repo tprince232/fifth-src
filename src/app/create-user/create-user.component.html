@@ -1,0 +1,16 @@
+<form (ngSubmit)="create()" #createUserForm="ngForm">
+    <div>
+        <input type="text" name="p1" [(ngModel)]="user.p1"/>
+        <p>Name</p>
+    </div>
+    <div>
+        
+        <input type="text" name="p2" [(ngModel)]="user.p2"/>
+        <p>Name</p>
+    </div>
+    <div>
+        <input type="text" name="drink" [(ngModel)]="user.drink"/>
+        <p>Drink</p>
+    </div>
+    <button class="btn btn-submit" type="submit">Create</button>
+</form>
