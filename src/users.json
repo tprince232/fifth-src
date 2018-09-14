@@ -1,0 +1,14 @@
+{
+    "players":[
+	{
+	    "p1":"Troy Prince",
+	    "p2":"Tom Manno",
+	    "drink":"Fireball"
+	},
+	{
+	    "p1":"Nick V",
+	    "p2":"Emma H",
+	    "drink":"svedka"
+	}
+    ]
+}
