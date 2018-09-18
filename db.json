@@ -2,33 +2,13 @@
   "users": [
     {
       "id": 1,
-      "p1": "Troy Prince",
-      "p2": "Tom Manno",
-      "drink": "Fireball"
-    },
-    {
-      "id": 2,
-      "p1": "Nick V",
-      "p2": "Emma H",
-      "drink": "Svedka"
-    },
-    {
-      "id": 3,
-      "p1": "d",
-      "p2": "v",
-      "drink": "g"
-    },
-    {
-      "id": 4,
-      "p1": "Melanie",
-      "p2": "Marissa",
-      "drink": "Svedka"
-    },
-    {
-      "id": 5,
+      "isDone": false,
       "p1": "Troy",
       "p2": "Tom",
-      "drink": "Fireball"
+      "drink": "Svedka"
     }
-  ]
+  ],
+  "time": {
+    "start": 1537221049811
+  }
 }
